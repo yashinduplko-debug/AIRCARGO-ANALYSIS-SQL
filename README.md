@@ -1,2 +1,3 @@
 # AIRCARGO-ANALYSIS-SQL
 The Air Cargo Data Analysis System helps an aviation company analyze passenger and freight operations.
+This project focuses on building a structured database and generating meaningful insights from operational data. The system enables the company to track key performance indicators such as regular passengers, busiest routes, and ticket sales details. By using SQL-based queries and data analysis techniques, the project provides: Identification of frequent passengers to improve customer loyalty programs Analysis of busiest routes to optimize flight scheduling and resource allocation.Monitoring of ticket sales and revenue trends for better financial planning.Insights into travel patterns to enhance customer experience
